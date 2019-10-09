@@ -21,6 +21,8 @@ public class ClaseMath {
         double exponente=3;
         System.out.println (base);
        System.out.println(exponente);
+       System.out.println(exponente);
+       
         int resultado=(int)Math.pow(base, exponente);
         
         
